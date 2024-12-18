@@ -25,6 +25,9 @@ visit our [docs](https://docs.cobalt.bluelightai.com/setup.html).
 Once you have Cobalt installed, check out the examples in this repository to
 see everything it can do!
 
+See our [documentation](https://docs.cobalt.bluelightai.com/examples.html) for
+more information about the examples.
+
 ## Community
 
 - [Slack](https://join.slack.com/t/bluelightaicommunity/shared_invite/zt-2uj0iu5lh-5WgutuwH82RxAOwuq8ptqg)
